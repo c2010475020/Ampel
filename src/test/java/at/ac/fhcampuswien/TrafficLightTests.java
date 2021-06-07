@@ -38,6 +38,6 @@ public class TrafficLightTests {
         TrafficLight red = new TrafficLight(Color.red);
         assertFalse(red.isOn());
     }
-    
+
 
 }
